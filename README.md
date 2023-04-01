@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hmsohag
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevOps, Python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 
